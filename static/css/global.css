@@ -1,0 +1,23 @@
+body {
+    margin:0;
+}
+a {
+    text-decoration: none;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+li {
+    list-style: none;
+}
+a {
+	text-decoration: none;
+	color: #000;
+}
+.news-content img {
+    width: 100%;
+}
+.tmpl {
+	margin-bottom: 55px;
+}
